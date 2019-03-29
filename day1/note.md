@@ -1,0 +1,1 @@
+helloos2.nas, helloos2.imgは正常に動かないのでデバッグ中
